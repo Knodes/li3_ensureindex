@@ -7,7 +7,7 @@
 Get the library code:
 
     $ cd /path/to/app/libraries
-    $ git clone https://github.com/knodes/li3_ensureindex.git
+    $ git clone https://github.com/Knodes/li3_ensureindex.git
 
 Make sure it's added on `app/config/bootstrap/libraries.php`:
 
