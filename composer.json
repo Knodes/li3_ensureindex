@@ -1,0 +1,16 @@
+{
+    "name": "knodes/li3_ensureindex",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/nervetattoo/li3_ensureindex.git"
+        }
+    ],
+    "require": {
+        "php" : ">=5.3.6",
+        "composer/installers": "dev-master"
+    },
+    "require-dev": {
+        "unionofrad/lithium": "dev-master"
+    }
+}
