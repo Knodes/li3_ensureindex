@@ -1,22 +1,21 @@
 {
     "name": "knodes/li3_ensureindex",
     "type": "lithium-library",
-    "repositories": [
+    "description": "",
+    "keywords": ["mongodb", "indexes", "li3", "lithium"],
+    "homepage": "https://github.com/Knodes/li3_ensureindex",
+    "authors": [
         {
-            "type": "vcs",
-            "url": "https://github.com/nervetattoo/li3_ensureindex.git"
+            "name": "Chris Jones",
+            "email": "leeked@gmail.com",
+            "homepage": "https://github.com/leek"
+        },
+        {
+            "name": "Contributors",
+            "homepage": "https://github.com/Knodes/li3_ensureindex/contributors"
         }
     ],
     "require": {
-        "php" : ">=5.3.6",
-        "composer/installers": "dev-master"
-    },
-    "require-dev": {
-        "unionofrad/lithium": "dev-master"
-    },
-    "autoload" : {
-        "psr-0" : {
-            "li3_ensureindex" : "./"
-        }
+        "composer/installers": "*"
     }
 }
