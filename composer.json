@@ -1,0 +1,21 @@
+{
+    "name": "knodes/li3_ensureindex",
+    "type": "lithium-library",
+    "description": "",
+    "keywords": ["mongodb", "indexes", "li3", "lithium"],
+    "homepage": "https://github.com/Knodes/li3_ensureindex",
+    "authors": [
+        {
+            "name": "Chris Jones",
+            "email": "leeked@gmail.com",
+            "homepage": "https://github.com/leek"
+        },
+        {
+            "name": "Contributors",
+            "homepage": "https://github.com/Knodes/li3_ensureindex/contributors"
+        }
+    ],
+    "require": {
+        "composer/installers": "*"
+    }
+}
